@@ -2,7 +2,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Transition
+namespace App.Scripts.Transition
 {
     public class Fader : MonoBehaviour
     {
