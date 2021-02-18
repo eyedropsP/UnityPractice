@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/App/Scripts/TimeSinceLevelLoad/Scene1.unity
+    guid: ed6d7f13cef57fb4a8e97a05e91332e7
+  - enabled: 1
+    path: Assets/App/Scripts/TimeSinceLevelLoad/Scene2.unity
+    guid: 35c906a849dad03439a4ba96bb017942
   m_configObjects: {}
